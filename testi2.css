@@ -124,3 +124,7 @@ h3{
 .testimonials .card:hover .content .details h2 span{
     color: #fff;
 }
+.testimonials .card:hover .content p{
+    color: black;
+    font-weight: 400;
+}
